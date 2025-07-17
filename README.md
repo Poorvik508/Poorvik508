@@ -1,3 +1,4 @@
+Hi, I'm POORVIK P
 # 💫 About Me:
 I am currently pursuing my Bachelor's degree in Computer Science and Engineering at RNS Institute of Technology (RNSIT). Alongside my academic studies, I am actively learning Full Stack Web Development, focusing on technologies like HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. I am passionate about building real-world web applications and continuously improving my skills to become a proficient full stack developer.<br><br>
 
